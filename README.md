@@ -26,9 +26,11 @@ Attempts to extract the ZIP file with each password.
 Stops when the correct password is found or when the list is exhausted.
 
 OutPut :
-Image
+![Screenshot 2025-01-30 161009](https://github.com/user-attachments/assets/60fb0c0d-6bf4-4179-9ad2-cc6d92f9b553)
 
-Image
+![Screenshot 2025-01-30 161055](https://github.com/user-attachments/assets/f9df30ec-6d32-4bdd-819a-e5c5eda49260)
+
+
 
 TCP Port Scanner:
 Scans a single host or an entire network for open ports.
